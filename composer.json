@@ -1,5 +1,5 @@
 {
-    "name": "greenter/data",
+    "name": "greenterycam/data",
     "description": "Store Documents for Greenter",
     "keywords": ["greenter"],
     "license": "MIT",
@@ -7,12 +7,16 @@
         {
             "name": "Giancarlos Salas",
             "email": "giansalex@gmail.com"
+        },
+        {
+            "name": "Yerson Campos",
+            "email": "ycamposde@gmail.com"
         }
     ],
-    "homepage": "https://github.com/giansalex/greenter-data",
+    "homepage": "https://github.com/ycamposde/greenter-data",
     "type": "library",
     "require": {
-        "greenter/core": "^2.2"
+        "greenterycam/core": "^2.2.3"
     },
 	"autoload": {
         "psr-4": {
