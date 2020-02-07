@@ -16,7 +16,7 @@
     "homepage": "https://github.com/ycamposde/greenter-data",
     "type": "library",
     "require": {
-        "greenterycam/core": "^2.2.3"
+        "greenterycam/core": "^7.0.1"
     },
 	"autoload": {
         "psr-4": {
